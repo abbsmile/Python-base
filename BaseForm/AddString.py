@@ -38,6 +38,61 @@ hope = """
 print hope
 
 
+print "###########多行语句#############"
+item_one = 5
+item_two = 6
+item_three = 7
+total = item_one + \
+        item_two + \
+        item_three
+print total
+
+
+# print "**********等待用户输入**********"
+# aNumber = raw_input("请输入一个数字：")
+# print aNumber
+
+
+print "分号可以写在句子中间"
+import sys; x = 'runoob'; sys.stdout.write(x + '\n')
+
+
+print "********print的输出********逗号代表在同一行************"
+
+a = "x"
+b = "y"
+print a,
+print b
+
+print a
+print b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
